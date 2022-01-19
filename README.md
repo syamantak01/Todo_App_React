@@ -20,7 +20,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
     - To work on the forms which will take input of tasks.
     - Added functions to handle the changes when the 'Add button' is clicked.
     - Further, used useEffect and useRef to focus on the input. [Reference](https://reactgo.com/react-focus-input/#:~:text=In%20react%2C%20we%20have%20the,focus%20on%20the%20input%20element.)
-    -Lastly, handled the update case by using condition in JSX element.
+    - Lastly, handled the update case by using condition in JSX element.
 
 - Created List component(TodoList.js)
     - To work on the list of tasks.
